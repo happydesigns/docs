@@ -12,7 +12,7 @@ Use this skill for identity and brand-layer work.
 Use the Docus MCP server or local docs to read:
 
 - `/en/identity`
-- `/en/identity/what-is-id`
+- `/en/identity/identity-scope`
 - `/en/identity/brand-layers`
 - `/en/identity/happydesigns-brand`
 - `/en/identity/client-identities`
@@ -23,13 +23,13 @@ Use the Docus MCP server or local docs to read:
 
 ```txt
 ui = interface foundation
-id = identity / brand-layer system
+identity = generic identity / brand-layer system
 brand = current concrete happydesigns brand implementation
 ```
 
 ## Workflow
 
-1. Distinguish the generic `id` system from the current `happydesigns/brand` implementation.
+1. Distinguish the generic `identity` system from the current `happydesigns/brand` implementation.
 2. Build identity on top of `ui`; do not move brand expression into `ui`.
 3. Define raw palettes centrally in the identity or brand layer.
 4. Map colors to Nuxt UI semantic colors in `app.config.ts`.
