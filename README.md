@@ -26,7 +26,7 @@ pnpm build
 
 ## Content model
 
-The site keeps the Docus i18n structure. English is the active documentation pass:
+The site keeps the Docus i18n structure. English is the canonical content language for the operating manual:
 
 ```txt
 content/
@@ -40,7 +40,7 @@ content/
     6.ai/             # MCP, LLM, and agent workflow
 ```
 
-German is configured as the next intended locale, but German content is not part of the initial pass.
+German is configured as a locale placeholder. Do not copy English pages into German without translation.
 
 Pages use Docus frontmatter for titles and descriptions. Do not repeat a page title as the first Markdown heading. Use Mermaid diagrams where a diagram explains architecture better than prose.
 
@@ -48,7 +48,7 @@ Pages use Docus frontmatter for titles and descriptions. Do not repeat a page ti
 
 Docus serves root `skills/` directories at `/.well-known/skills/`.
 
-Initial skills:
+Published skills:
 
 - `happydesigns-architecture`
 - `happydesigns-identity`
@@ -59,7 +59,7 @@ Initial skills:
 
 This site is not a customer help center, full product API reference, or copy of Nuxt, Docus, or Nuxt UI documentation.
 
-Customer-facing guidance belongs later in `help.happydesigns.de`. Product-specific deep docs may later live at dedicated product docs sites.
+Customer-facing guidance belongs in `help.happydesigns.de`. Product-specific deep docs belong at dedicated product documentation sites.
 
 ## Contributing
 

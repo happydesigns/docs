@@ -1,7 +1,7 @@
 ---
 seo:
   title: happydesigns docs
-  description: German documentation is planned. The operating manual is currently available in English.
+  description: The happydesigns operating manual is published in English.
 ---
 
 ::u-page-hero
@@ -9,7 +9,7 @@ seo:
 happydesigns docs
 
 #description
-German documentation is planned. The operating manual is currently available in English.
+The happydesigns operating manual is published in English.
 
 #links
   :::u-button
