@@ -30,9 +30,10 @@ Use the Docus MCP server or local docs to read:
 7. Keep product-specific implementation detail in product docs, not the ecosystem operating manual.
 8. Keep customer-facing instructions for customer help docs.
 9. Prefer Docus default aside navigation for one operating manual. Use header sub-navigation only when the IA needs a real third layer or distinct personas/modes.
-10. Use Mermaid only for topology, branching, convergence, feedback loops, or ownership flows. Use ordered lists for simple sequences and tables for comparisons.
-11. Rely on Docus navigation and previous/next controls for sequential reading. Use inline links where the prose needs them; do not add blanket `Read next` sections.
-12. Update skills when docs paths or agent workflows change.
+10. Use Mermaid only for topology, branching, convergence, feedback loops, or ownership flows. Explain how to read each diagram in prose.
+11. Use ordered lists for simple sequences and tables for comparisons.
+12. Rely on Docus navigation and previous/next controls for sequential reading. Use inline links where the prose needs them; do not add blanket `Read next` sections.
+13. Update skills when docs paths or agent workflows change.
 
 ## Do not
 
