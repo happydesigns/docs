@@ -1,13 +1,24 @@
 ---
-title: happydesigns docs
-description: German documentation is planned. The first documentation pass is English.
 seo:
   title: happydesigns docs
   description: German documentation is planned. The first documentation pass is English.
 ---
 
-# happydesigns docs
+::u-page-hero
+#title
+happydesigns docs
 
-German documentation is planned.
+#description
+German documentation is planned. The first documentation pass is available in English.
 
-The first documentation pass is available in [English](/en).
+#links
+  :::u-button
+  ---
+  color: neutral
+  size: xl
+  to: /en
+  trailing-icon: i-lucide-arrow-right
+  ---
+  Open English docs
+  :::
+::

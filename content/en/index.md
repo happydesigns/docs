@@ -1,34 +1,154 @@
 ---
-title: happydesigns docs
-description: The central operating manual for the happydesigns ecosystem.
 seo:
   title: happydesigns docs
-  description: Product, architecture, identity, development, and agent workflow documentation for happydesigns.
+  description: The central operating manual for the happydesigns ecosystem.
 ---
 
-# happydesigns docs
+::u-page-hero
+#title
+happydesigns docs
 
-The central operating manual for the happydesigns ecosystem.
+#description
+The central operating manual for the happydesigns ecosystem. Use it to understand product boundaries, Nuxt layers, identity systems, documentation, MCP, and agent-assisted development.
 
-Use these docs to understand how happydesigns structures products, Nuxt layers, identity systems, documentation, MCP, and agent-assisted development.
+#links
+  :::u-button
+  ---
+  color: neutral
+  size: xl
+  to: /en/start/what-is-happydesigns
+  trailing-icon: i-lucide-arrow-right
+  ---
+  Start reading
+  :::
 
-## Start here
+  :::u-button
+  ---
+  color: neutral
+  size: xl
+  to: /en/architecture/layered-architecture
+  variant: outline
+  ---
+  Architecture
+  :::
+::
 
-| Area | Use it for |
-| --- | --- |
-| [Start](/en/start) | Understand what happydesigns is and how the ecosystem is mapped. |
-| [Architecture](/en/architecture) | Decide where code, content, layers, modules, and product behavior belong. |
-| [Development](/en/development) | Follow the working principles for Nuxt, Docus, Nuxt UI, and shared logic. |
-| [Identity](/en/identity) | Understand `id`, brand layers, tokens, and the current happydesigns brand. |
-| [Products](/en/products) | See the role of `ui`, `id`, `business`, `nuxt-variants`, `docs`, and `help`. |
-| [AI](/en/ai) | Use Docus MCP and skills correctly before changing architecture. |
+::u-page-section
+#title
+Navigate the ecosystem
 
-## What these docs optimize for
+#description
+High-signal documentation for contributors and agents working across happydesigns products.
 
-- Clear product boundaries.
-- Reusable Nuxt layers and modules.
-- Brand-neutral product cores.
-- Centralized identity and token systems.
-- Durable knowledge that humans and agents can both read.
+#features
+  :::u-page-feature
+  ---
+  icon: i-lucide-map
+  to: /en/start/what-is-happydesigns
+  ---
+  #title
+  Start
 
-These docs are not a customer help center, product API reference, or copy of the Nuxt, Docus, or Nuxt UI documentation.
+  #description
+  Understand what happydesigns is and how the ecosystem is mapped.
+  :::
+
+  :::u-page-feature
+  ---
+  icon: i-lucide-network
+  to: /en/architecture/layered-architecture
+  ---
+  #title
+  Architecture
+
+  #description
+  Decide where code, content, layers, modules, and product behavior belong.
+  :::
+
+  :::u-page-feature
+  ---
+  icon: i-lucide-code-2
+  to: /en/development/how-we-build
+  ---
+  #title
+  Development
+
+  #description
+  Follow the working principles for Nuxt, Docus, Nuxt UI, and shared logic.
+  :::
+
+  :::u-page-feature
+  ---
+  icon: i-lucide-fingerprint
+  to: /en/identity/what-is-id
+  ---
+  #title
+  Identity
+
+  #description
+  Understand identity layers, brand layers, tokens, and the current happydesigns brand.
+  :::
+
+  :::u-page-feature
+  ---
+  icon: i-lucide-box
+  to: /en/products/ui
+  ---
+  #title
+  Products
+
+  #description
+  See the role of `ui`, `identity`, `brand`, `business`, `nuxt-variants`, `docs`, and `help`.
+  :::
+
+  :::u-page-feature
+  ---
+  icon: i-lucide-bot
+  to: /en/ai/mcp
+  ---
+  #title
+  AI
+
+  #description
+  Use Docus MCP and skills correctly before changing architecture.
+  :::
+::
+
+::u-page-section
+#title
+What these docs optimize for
+
+#features
+  :::u-page-feature
+  ---
+  icon: i-lucide-git-branch
+  ---
+  #title
+  Clear boundaries
+
+  #description
+  Product, layer, module, app, and customer concerns stay separate.
+  :::
+
+  :::u-page-feature
+  ---
+  icon: i-lucide-layers
+  ---
+  #title
+  Reusable foundations
+
+  #description
+  Nuxt layers, modules, and plain TypeScript packages are used at the right level.
+  :::
+
+  :::u-page-feature
+  ---
+  icon: i-lucide-wand-sparkles
+  ---
+  #title
+  Agent-ready knowledge
+
+  #description
+  Durable docs, MCP, and skills help humans and agents work from the same source of truth.
+  :::
+::
