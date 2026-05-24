@@ -2,7 +2,7 @@
 
 The Docus documentation site for the happydesigns ecosystem.
 
-This repository contains the central operating manual for happydesigns: product boundaries, architecture principles, identity and brand-layer strategy, development policy, Nuxt UI usage, and AI/agent workflow.
+This repository contains the central operating manual for happydesigns: product boundaries, architecture principles, identity and brand-layer strategy, development policy, Nuxt UI usage, Docus authoring policy, and AI/agent workflow.
 
 ## Setup
 
@@ -26,21 +26,23 @@ pnpm build
 
 ## Content model
 
-The site keeps the Docus i18n structure. English content is the first published documentation pass:
+The site keeps the Docus i18n structure. English is the active documentation pass:
 
 ```txt
 content/
   en/
     index.md
-    1.start/
-    2.architecture/
-    3.development/
-    4.identity/
-    5.products/
-    6.ai/
+    1.start/          # ecosystem operating model
+    2.architecture/   # product and runtime placement
+    3.development/    # build, docs, and Nuxt UI policy
+    4.identity/       # identity and brand-layer strategy
+    5.products/       # product map and boundaries
+    6.ai/             # MCP, LLM, and agent workflow
 ```
 
 German is configured as the next intended locale, but German content is not part of the initial pass.
+
+Pages use Docus frontmatter for titles and descriptions. Do not repeat a page title as the first Markdown heading. Use Mermaid diagrams where a diagram explains architecture better than prose.
 
 ## Published skills
 
@@ -51,6 +53,7 @@ Initial skills:
 - `happydesigns-architecture`
 - `happydesigns-identity`
 - `happydesigns-nuxt-ui`
+- `happydesigns-docs`
 
 ## Scope
 

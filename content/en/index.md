@@ -1,7 +1,7 @@
 ---
 seo:
   title: happydesigns docs
-  description: The central operating manual for the happydesigns ecosystem.
+  description: The central operating manual for builders and agents working across the happydesigns ecosystem.
 ---
 
 ::u-page-hero
@@ -9,90 +9,90 @@ seo:
 happydesigns docs
 
 #description
-The central operating manual for the happydesigns ecosystem. Use it to understand product boundaries, Nuxt layers, identity systems, documentation, MCP, and agent-assisted development.
+The central operating manual for builders and agents working across happydesigns products, Nuxt layers, identity systems, documentation, MCP, and agent-assisted workflows.
 
 #links
   :::u-button
   ---
   color: neutral
   size: xl
-  to: /en/start/what-is-happydesigns
+  to: /en/start
   trailing-icon: i-lucide-arrow-right
   ---
-  Start reading
+  Read the operating model
   :::
 
   :::u-button
   ---
   color: neutral
   size: xl
-  to: /en/architecture/layered-architecture
+  to: /en/architecture
   variant: outline
   ---
-  Architecture
+  Architecture model
   :::
 ::
 
 ::u-page-section
 #title
-Navigate the ecosystem
+Use the docs to make architecture decisions
 
 #description
-High-signal documentation for contributors and agents working across happydesigns products.
+These pages are intentionally strategic. They explain what belongs where, which source of truth wins, and how agents should act before changing code.
 
 #features
   :::u-page-feature
   ---
   icon: i-lucide-map
-  to: /en/start/what-is-happydesigns
+  to: /en/start
   ---
   #title
-  Start
+  Ecosystem
 
   #description
-  Understand what happydesigns is and how the ecosystem is mapped.
+  Understand the operating model, product map, and source-of-truth rules.
   :::
 
   :::u-page-feature
   ---
   icon: i-lucide-network
-  to: /en/architecture/layered-architecture
+  to: /en/architecture
   ---
   #title
   Architecture
 
   #description
-  Decide where code, content, layers, modules, and product behavior belong.
+  Place code, content, runtime behavior, identity, and product logic at the right level.
   :::
 
   :::u-page-feature
   ---
   icon: i-lucide-code-2
-  to: /en/development/how-we-build
+  to: /en/development
   ---
   #title
   Development
 
   #description
-  Follow the working principles for Nuxt, Docus, Nuxt UI, and shared logic.
+  Follow the working practices for Nuxt layers, modules, Docus, and Nuxt UI.
   :::
 
   :::u-page-feature
   ---
   icon: i-lucide-fingerprint
-  to: /en/identity/what-is-id
+  to: /en/identity
   ---
   #title
   Identity
 
   #description
-  Understand identity layers, brand layers, tokens, and the current happydesigns brand.
+  Separate the generic identity product from brand layers and concrete brand implementations.
   :::
 
   :::u-page-feature
   ---
   icon: i-lucide-box
-  to: /en/products/ui
+  to: /en/products
   ---
   #title
   Products
@@ -104,19 +104,22 @@ High-signal documentation for contributors and agents working across happydesign
   :::u-page-feature
   ---
   icon: i-lucide-bot
-  to: /en/ai/mcp
+  to: /en/ai
   ---
   #title
-  AI
+  Agents
 
   #description
-  Use Docus MCP and skills correctly before changing architecture.
+  Use MCP, LLM files, and skills as one workflow for reliable agent work.
   :::
 ::
 
 ::u-page-section
 #title
 What these docs optimize for
+
+#description
+This is not a marketing site, help center, product API reference, or copy of Nuxt documentation. It is the durable strategy layer.
 
 #features
   :::u-page-feature
