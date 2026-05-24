@@ -29,12 +29,13 @@ Use the Docus MCP server or local docs to read:
 6. Keep customer-facing instructions for future help docs.
 7. Prefer Docus default aside navigation for one operating manual. Use header sub-navigation only when the IA needs a real third layer or distinct personas/modes.
 8. Use Mermaid only for topology, branching, convergence, feedback loops, or ownership flows. Use ordered lists for simple sequences and tables for comparisons.
-9. Update skills when docs paths or agent workflows change.
+9. Rely on Docus navigation and previous/next controls for sequential reading. Use inline links where the prose needs them; do not add blanket `Read next` sections.
+10. Update skills when docs paths or agent workflows change.
 
 ## Do not
 
 - Publish `.agents/` scratch work.
 - Copy Nuxt, Docus, Nuxt Content, Nuxt UI, or product API reference docs.
 - Create duplicate section-title pages.
-- Leave stale package names, old paths, or broken read-next links.
+- Leave stale package names, old paths, or broken internal links.
 - Add German pages by copying English content without translation.
