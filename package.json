@@ -5,6 +5,7 @@
     "build": "nuxt build"
   },
   "dependencies": {
+    "@barzhsieh/nuxt-content-mermaid": "latest",
     "docus": "latest",
     "better-sqlite3": "^12.6.2",
     "nuxt": "^4.3.1"
