@@ -17,6 +17,14 @@ export default defineNuxtConfig({
       dark: 'dark',
     },
   },
+  routeRules: {
+    '/en/start': { redirect: '/en/start/overview' },
+    '/en/architecture': { redirect: '/en/architecture/overview' },
+    '/en/development': { redirect: '/en/development/overview' },
+    '/en/identity': { redirect: '/en/identity/overview' },
+    '/en/products': { redirect: '/en/products/overview' },
+    '/en/ai': { redirect: '/en/ai/overview' },
+  },
   llms: {
     domain: 'https://docs.happydesigns.de',
     title: 'happydesigns docs',
