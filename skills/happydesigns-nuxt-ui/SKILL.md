@@ -28,7 +28,7 @@ Use the Docus MCP server or local docs to read:
 
 - Repeated patterns like `text-gray-900 dark:text-gray-100`.
 - Raw palette choices in normal reusable application components.
-- One-off component color fixes that should be central token decisions.
+- One-off component color fixes that belong in central token decisions.
 - Rebuilding standard Nuxt UI surfaces from scratch.
 
 Raw palette classes are acceptable inside identity or brand layers, logos, controlled illustrations, brand canvas areas, and deliberate art direction.

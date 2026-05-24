@@ -50,7 +50,7 @@ Start with the question you need to answer. The docs are organized as an operati
   Place a change
 
   #description
-  Use the operating model to choose the product, runtime, layer, app, or documentation surface that should own the work.
+  Use the operating model to choose the product, runtime, layer, app, or documentation surface that owns the work.
   :::
 
   :::u-page-feature
@@ -95,7 +95,7 @@ Start with the question you need to answer. The docs are organized as an operati
 Use the docs to make architecture decisions
 
 #description
-These pages are intentionally strategic. They explain what belongs where, which source of truth wins, and how agents should act before changing code.
+These pages are intentionally strategic. They explain what belongs where, which source of truth wins, and how agents act before changing code.
 
 #features
   :::u-page-feature
