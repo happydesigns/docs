@@ -25,15 +25,16 @@ Use the Docus MCP server or local docs to read:
 2. Write for humans first: fold purpose into opening prose, then use headings only for real content groups.
 3. Write durable strategy, architecture, and workflow guidance, not temporary task state.
 4. Add a section heading before substantive lists, tables, diagrams, code blocks, or decision models.
-5. Use prose for intent, tables for decisions, ordered lists for sequences, and MDC components only when they improve navigation or scanning.
-6. Keep English as the canonical content language until German translation is intentionally created.
-7. Keep product-specific implementation detail in product docs, not the ecosystem operating manual.
-8. Keep customer-facing instructions for customer help docs.
-9. Prefer Docus default aside navigation for one operating manual. Use header sub-navigation only when the IA needs a real third layer or distinct personas/modes.
-10. Use Mermaid only for topology, branching, convergence, feedback loops, or ownership flows. Explain how to read each diagram in prose.
-11. Use ordered lists for simple sequences and tables for comparisons.
-12. Rely on Docus navigation and previous/next controls for sequential reading. Use inline links where the prose needs them; do not add blanket `Read next` sections.
-13. Update skills when docs paths or agent workflows change.
+5. Choose a page type before choosing headings: landing, model, boundary, workflow, policy, or product overview.
+6. Use prose for intent, tables for decisions, ordered lists for sequences, and MDC components only when they improve navigation or scanning.
+7. Keep English as the canonical content language until German translation is intentionally created.
+8. Keep product-specific implementation detail in product docs, not the ecosystem operating manual.
+9. Keep customer-facing instructions for customer help docs.
+10. Prefer Docus default aside navigation for one operating manual. Use header sub-navigation only when the IA needs a real third layer or distinct personas/modes.
+11. Use Mermaid only for topology, branching, convergence, feedback loops, or ownership flows. Explain how to read each diagram in prose.
+12. Use ordered lists for simple sequences and tables for comparisons.
+13. Rely on Docus navigation and previous/next controls for sequential reading. Use inline links where the prose needs them; do not add blanket `Read next` sections.
+14. Update skills when docs paths or agent workflows change.
 
 ## Do not
 
