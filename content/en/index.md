@@ -16,7 +16,7 @@ The central operating manual for builders and agents working across happydesigns
   ---
   color: neutral
   size: xl
-  to: /en/start
+  to: /en/start/operating-model
   trailing-icon: i-lucide-arrow-right
   ---
   Read the operating model
@@ -26,7 +26,7 @@ The central operating manual for builders and agents working across happydesigns
   ---
   color: neutral
   size: xl
-  to: /en/architecture
+  to: /en/architecture/layered-architecture
   variant: outline
   ---
   Architecture model
@@ -101,7 +101,7 @@ These pages are intentionally strategic. They explain what belongs where, which 
   :::u-page-feature
   ---
   icon: i-lucide-map
-  to: /en/start
+  to: /en/start/operating-model
   ---
   #title
   Ecosystem
@@ -113,7 +113,7 @@ These pages are intentionally strategic. They explain what belongs where, which 
   :::u-page-feature
   ---
   icon: i-lucide-network
-  to: /en/architecture
+  to: /en/architecture/layered-architecture
   ---
   #title
   Architecture
@@ -125,7 +125,7 @@ These pages are intentionally strategic. They explain what belongs where, which 
   :::u-page-feature
   ---
   icon: i-lucide-code-2
-  to: /en/development
+  to: /en/development/how-we-build
   ---
   #title
   Development
@@ -137,7 +137,7 @@ These pages are intentionally strategic. They explain what belongs where, which 
   :::u-page-feature
   ---
   icon: i-lucide-fingerprint
-  to: /en/identity
+  to: /en/identity/identity-scope
   ---
   #title
   Identity
@@ -149,7 +149,7 @@ These pages are intentionally strategic. They explain what belongs where, which 
   :::u-page-feature
   ---
   icon: i-lucide-box
-  to: /en/products
+  to: /en/products/product-map
   ---
   #title
   Products
@@ -161,7 +161,7 @@ These pages are intentionally strategic. They explain what belongs where, which 
   :::u-page-feature
   ---
   icon: i-lucide-bot
-  to: /en/ai
+  to: /en/ai/agent-workflow
   ---
   #title
   Agents

@@ -25,7 +25,7 @@ Use the Docus MCP server or local docs to read:
 2. Write for humans first: fold purpose into opening prose, then use headings only for real content groups.
 3. Write durable strategy, architecture, and workflow guidance, not temporary task state.
 4. Add a section heading before substantive lists, tables, diagrams, code blocks, or decision models.
-5. Choose a page type before choosing headings: landing, model, boundary, workflow, policy, or product overview.
+5. Choose a page type before choosing headings: landing, model, boundary, workflow, policy, or product role page.
 6. Use prose for intent, tables for decisions, ordered lists for sequences, and MDC components only when they improve navigation or scanning.
 7. Keep English as the canonical content language until German translation is intentionally created.
 8. Keep product-specific implementation detail in product docs, not the ecosystem operating manual.

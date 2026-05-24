@@ -11,7 +11,6 @@ Use this skill for identity and brand-layer work.
 
 Use the Docus MCP server or local docs to read:
 
-- `/en/identity`
 - `/en/identity/identity-scope`
 - `/en/identity/brand-layers`
 - `/en/identity/happydesigns-brand`

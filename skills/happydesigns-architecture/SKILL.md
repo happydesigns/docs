@@ -11,7 +11,6 @@ Before changing architecture, identify which happydesigns product, layer, or pro
 
 Use the Docus MCP server or local docs to read:
 
-- `/en/architecture`
 - `/en/architecture/layered-architecture`
 - `/en/architecture/runtime-placement`
 - `/en/architecture/separation-of-concern`
