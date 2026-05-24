@@ -35,6 +35,63 @@ The central operating manual for builders and agents working across happydesigns
 
 ::u-page-section
 #title
+Choose your path
+
+#description
+Start with the question you need to answer. The docs are organized as an operating manual, but most readers arrive with a concrete decision to make.
+
+#features
+  :::u-page-feature
+  ---
+  icon: i-lucide-route
+  to: /en/start/operating-model
+  ---
+  #title
+  Place a change
+
+  #description
+  Use the operating model to choose the product, runtime, layer, app, or documentation surface that should own the work.
+  :::
+
+  :::u-page-feature
+  ---
+  icon: i-lucide-file-code-2
+  to: /en/architecture/where-code-belongs
+  ---
+  #title
+  Find the owner
+
+  #description
+  Compare concrete examples when a change could fit in several repositories or layers.
+  :::
+
+  :::u-page-feature
+  ---
+  icon: i-lucide-fingerprint
+  to: /en/identity/identity-scope
+  ---
+  #title
+  Work with identity
+
+  #description
+  Separate the generic identity product, the happydesigns brand layer, and client-specific identity layers.
+  :::
+
+  :::u-page-feature
+  ---
+  icon: i-lucide-file-pen-line
+  to: /en/development/docus-authoring
+  ---
+  #title
+  Write durable docs
+
+  #description
+  Use the Docus authoring policy before changing page structure, diagrams, navigation, or source-of-truth rules.
+  :::
+::
+
+::u-page-section
+#title
 Use the docs to make architecture decisions
 
 #description
