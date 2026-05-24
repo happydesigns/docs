@@ -24,14 +24,15 @@ Use the Docus MCP server or local docs to read:
 1. Use frontmatter `title` and `description`; do not repeat the page title as the first Markdown heading.
 2. Write for humans first: fold purpose into opening prose, then use headings only for real content groups.
 3. Write durable strategy, architecture, and workflow guidance, not temporary task state.
-4. Use prose for intent, tables for decisions, ordered lists for sequences, and MDC components only when they improve navigation or scanning.
-5. Keep English as the canonical content language until German translation is intentionally created.
-6. Keep product-specific implementation detail in product docs, not the ecosystem operating manual.
-7. Keep customer-facing instructions for customer help docs.
-8. Prefer Docus default aside navigation for one operating manual. Use header sub-navigation only when the IA needs a real third layer or distinct personas/modes.
-9. Use Mermaid only for topology, branching, convergence, feedback loops, or ownership flows. Use ordered lists for simple sequences and tables for comparisons.
-10. Rely on Docus navigation and previous/next controls for sequential reading. Use inline links where the prose needs them; do not add blanket `Read next` sections.
-11. Update skills when docs paths or agent workflows change.
+4. Add a section heading before substantive lists, tables, diagrams, code blocks, or decision models.
+5. Use prose for intent, tables for decisions, ordered lists for sequences, and MDC components only when they improve navigation or scanning.
+6. Keep English as the canonical content language until German translation is intentionally created.
+7. Keep product-specific implementation detail in product docs, not the ecosystem operating manual.
+8. Keep customer-facing instructions for customer help docs.
+9. Prefer Docus default aside navigation for one operating manual. Use header sub-navigation only when the IA needs a real third layer or distinct personas/modes.
+10. Use Mermaid only for topology, branching, convergence, feedback loops, or ownership flows. Use ordered lists for simple sequences and tables for comparisons.
+11. Rely on Docus navigation and previous/next controls for sequential reading. Use inline links where the prose needs them; do not add blanket `Read next` sections.
+12. Update skills when docs paths or agent workflows change.
 
 ## Do not
 
