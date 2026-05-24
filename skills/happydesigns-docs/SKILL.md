@@ -27,7 +27,8 @@ Use the Docus MCP server or local docs to read:
 4. Keep English as the active content pass until German translation is intentionally created.
 5. Keep product-specific implementation detail in product docs, not the ecosystem operating manual.
 6. Keep customer-facing instructions for future help docs.
-7. Update skills when docs paths or agent workflows change.
+7. Prefer Docus default aside navigation for one operating manual. Use header sub-navigation only when the IA needs a real third layer or distinct personas/modes.
+8. Update skills when docs paths or agent workflows change.
 
 ## Do not
 
