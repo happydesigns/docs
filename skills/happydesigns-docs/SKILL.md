@@ -23,18 +23,21 @@ Use the Docus MCP server or local docs to read:
 
 1. Use frontmatter `title` and `description`; do not repeat the page title as the first Markdown heading.
 2. Write for humans first: fold purpose into opening prose, then use headings only for real content groups.
-3. Write durable strategy, architecture, and workflow guidance, not temporary task state.
-4. Add a section heading before substantive lists, tables, diagrams, code blocks, or decision models.
-5. Choose a page type before choosing headings: landing, model, boundary, workflow, policy, or product role page.
-6. Use prose for intent, tables for decisions, ordered lists for sequences, and MDC components only when they improve navigation or scanning.
-7. Keep English as the canonical content language until German translation is intentionally created.
-8. Keep product-specific implementation detail in product docs, not the ecosystem operating manual.
-9. Keep customer-facing instructions for customer help docs.
-10. Prefer Docus default aside navigation for one operating manual. Use header sub-navigation only when the IA needs a real third layer or distinct personas/modes.
-11. Use Mermaid only for topology, branching, convergence, feedback loops, or ownership flows. Explain how to read each diagram in prose.
-12. Use ordered lists for simple sequences and tables for comparisons.
-13. Rely on Docus navigation and previous/next controls for sequential reading. Use inline links where the prose needs them; do not add blanket `Read next` sections.
-14. Update skills when docs paths or agent workflows change.
+3. Do not assume readers have read previous pages. Give enough local context for the page decision without copying boilerplate definitions everywhere.
+4. Prefer clearer concrete words before defining hard terms. Replace broad shorthand such as `surface` with `page`, `app`, `API`, `entry point`, `UI area`, or `docs site` when one of those is accurate.
+5. Define hard terms locally only when the term is necessary. Keep definitions short and link to the deeper model when useful.
+6. Write durable strategy, architecture, and workflow guidance, not temporary task state.
+7. Add a section heading before substantive lists, tables, diagrams, code blocks, or decision models.
+8. Choose a page type before choosing headings: landing, model, boundary, workflow, policy, or product role page.
+9. Use prose for intent, tables for decisions, ordered lists for sequences, and MDC components only when they improve navigation or scanning.
+10. Keep English as the canonical content language until German translation is intentionally created.
+11. Keep product-specific implementation detail in product docs, not the ecosystem operating manual.
+12. Keep customer-facing instructions for customer help docs.
+13. Prefer Docus default aside navigation for one operating manual. Use header sub-navigation only when the IA needs a real third layer or distinct personas/modes.
+14. Use Mermaid only for topology, branching, convergence, feedback loops, or ownership flows. Explain how to read each diagram in prose.
+15. Use ordered lists for simple sequences and tables for comparisons.
+16. Rely on Docus navigation and previous/next controls for sequential reading. Use inline links where the prose needs them; do not add blanket `Read next` sections.
+17. Update skills when docs paths or agent workflows change.
 
 ## Do not
 
