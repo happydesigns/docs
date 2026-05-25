@@ -120,7 +120,7 @@ These pages are intentionally strategic. They explain what belongs where, which 
   Architecture
 
   #description
-  Place code, content, runtime access, identity, and product logic at the right level.
+  Place code, content, product logic, and interfaces at the right level.
   :::
 
   :::u-page-feature
