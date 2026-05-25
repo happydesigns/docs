@@ -18,6 +18,7 @@ The happydesigns operating manual is published in English.
   size: xl
   to: /en
   trailing-icon: i-lucide-arrow-right
+  variant: solid
   ---
   Open English docs
   :::

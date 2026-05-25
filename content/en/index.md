@@ -18,6 +18,7 @@ The central operating manual for builders and agents working across happydesigns
   size: xl
   to: /en/start/operating-model
   trailing-icon: i-lucide-arrow-right
+  variant: solid
   ---
   Read the operating model
   :::

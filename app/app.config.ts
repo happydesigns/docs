@@ -6,4 +6,12 @@ export default defineAppConfig({
     title: 'happydesigns docs',
     description: 'The central operating manual for the happydesigns ecosystem.',
   },
+  ui: {
+    button: {
+      defaultVariants: {
+        color: 'neutral',
+        variant: 'soft',
+      },
+    },
+  },
 })
