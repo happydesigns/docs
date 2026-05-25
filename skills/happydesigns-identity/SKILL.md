@@ -38,6 +38,6 @@ brand = happydesigns-specific brand implementation
 
 ## Do not
 
-- Put authorization, tenant isolation, audit behavior, invoice numbering, E-Rechnung generation, API behavior, webhooks, MCP tools, or production credentials in a brand layer.
+- Put product logic, permissions, workflows, data rules, integrations, storage, runtime behavior, or production credentials in a brand layer.
 - Scatter raw palette classes and `dark:` variants through reusable components.
 - Treat the `brand` repo name as the reusable identity product name.
