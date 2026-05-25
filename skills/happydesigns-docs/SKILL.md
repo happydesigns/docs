@@ -26,7 +26,7 @@ Use the Docus MCP server or local docs to read:
 3. Do not assume readers have read previous pages. Give enough local context for the page decision without copying boilerplate definitions everywhere.
 4. Prefer clearer concrete words before defining hard terms. Replace broad shorthand such as `surface` with `page`, `app`, `API`, `entry point`, `UI area`, or `docs site` when one of those is accurate.
 5. Define hard terms locally only when the term is necessary. Keep definitions short and link to the deeper model when useful.
-6. Write durable strategy, architecture, and workflow guidance, not temporary task state.
+6. Write stable strategy, architecture, and workflow guidance, not temporary task state.
 7. Add a section heading before substantive lists, tables, diagrams, code blocks, or decision models.
 8. Choose a page type before choosing headings: landing, model, boundary, workflow, policy, or product role page.
 9. Use prose for intent, tables for decisions, ordered lists for sequences, and MDC components only when they improve navigation or scanning.
@@ -41,7 +41,7 @@ Use the Docus MCP server or local docs to read:
 
 ## Do not
 
-- Publish `.agents/` scratch work.
+- Publish `.agents/` temporary task notes.
 - Copy Nuxt, Docus, Nuxt Content, Nuxt UI, or product API reference docs.
 - Create duplicate section-title pages.
 - Leave stale package names, old paths, or broken internal links.

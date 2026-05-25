@@ -51,7 +51,7 @@ Start with the question you need to answer. The docs are organized as an operati
   Place a change
 
   #description
-  Use the operating model to choose the product, runtime, layer, app, or documentation surface that owns the work.
+  Use the operating model to choose the product, layer, app, package, or docs site that owns the work.
   :::
 
   :::u-page-feature
@@ -75,7 +75,7 @@ Start with the question you need to answer. The docs are organized as an operati
   Work with identity
 
   #description
-  Separate the generic identity product, the happydesigns brand layer, and client-specific identity layers.
+  Separate reusable identity rules, the happydesigns brand implementation, and client-specific identity layers.
   :::
 
   :::u-page-feature
@@ -84,7 +84,7 @@ Start with the question you need to answer. The docs are organized as an operati
   to: /en/development/docus-authoring
   ---
   #title
-  Write durable docs
+  Write stable docs
 
   #description
   Use the Docus authoring policy before changing page structure, diagrams, navigation, or source-of-truth rules.
@@ -144,7 +144,7 @@ These pages are intentionally strategic. They explain what belongs where, which 
   Identity
 
   #description
-  Separate the generic identity product from brand layers and concrete brand implementations.
+  Separate reusable identity rules from happydesigns-specific and client-specific brand work.
   :::
 
   :::u-page-feature
@@ -177,7 +177,7 @@ These pages are intentionally strategic. They explain what belongs where, which 
 What these docs optimize for
 
 #description
-This is not a marketing site, help center, product API reference, or copy of Nuxt documentation. It is the durable strategy layer.
+This is not a marketing site, help center, product API reference, or copy of Nuxt documentation. It is the stable strategy layer.
 
 #features
   :::u-page-feature
@@ -210,6 +210,6 @@ This is not a marketing site, help center, product API reference, or copy of Nux
   Agent-ready knowledge
 
   #description
-  Durable docs, MCP, and skills help humans and agents work from the same source of truth.
+  Stable docs, MCP, and skills help humans and agents work from the same source of truth.
   :::
 ::
