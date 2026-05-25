@@ -21,7 +21,7 @@ Use the Docus MCP server or local docs to read:
 ## Workflow
 
 1. Inspect the repo structure before editing.
-2. Decide whether the change belongs in docs, `ui`, `identity` / brand layer, product app, Nuxt module, Nitro/server code, or a plain TypeScript package.
+2. Decide whether the change belongs in docs, `ui`, `id` / brand layer, product app, Nuxt module, Nitro/server code, or a plain TypeScript package.
 3. Use Nuxt layers for presentation, branding, layouts, pages, components, and app config.
 4. Use Nuxt modules for installable behavior, hooks, routes, runtime config, generated files, and typed integrations.
 5. Use plain TypeScript packages for reusable business rules with the same result for the same input.

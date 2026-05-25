@@ -156,7 +156,7 @@ These pages are intentionally strategic. They explain what belongs where, which 
   Products
 
   #description
-  See the role of `ui`, `identity`, `brand`, `business`, `nuxt-variants`, `docs`, and `help`.
+  See the role of `ui`, `id`, `brand`, `os`, `nuxt-variants`, `docs`, and `help`.
   :::
 
   :::u-page-feature
