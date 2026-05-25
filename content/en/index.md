@@ -120,7 +120,7 @@ These pages are intentionally strategic. They explain what belongs where, which 
   Architecture
 
   #description
-  Place code, content, runtime behavior, identity, and product logic at the right level.
+  Place code, content, runtime access, identity, and product logic at the right level.
   :::
 
   :::u-page-feature
@@ -177,7 +177,7 @@ These pages are intentionally strategic. They explain what belongs where, which 
 What these docs optimize for
 
 #description
-This is not a marketing site, help center, product API reference, or copy of Nuxt documentation. It is the stable strategy layer.
+This is not a marketing site, help center, product API reference, or copy of Nuxt documentation. It is the shared architecture layer.
 
 #features
   :::u-page-feature
@@ -210,6 +210,6 @@ This is not a marketing site, help center, product API reference, or copy of Nux
   Agent-ready knowledge
 
   #description
-  Stable docs, MCP, and skills help humans and agents work from the same source of truth.
+  Docs, MCP, and skills help humans and agents work from the same published rules.
   :::
 ::

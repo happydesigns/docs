@@ -31,7 +31,7 @@ Use the Docus MCP server or local docs to read:
 
 ## Do not
 
-- Put business behavior in brand layers.
+- Put business logic in brand layers.
 - Put brand-specific identity in `ui`.
 - Duplicate behavior between UI, API, MCP, webhooks, and jobs.
 - Invent custom extension systems when Nuxt layers, Nuxt modules, Nitro, API, webhooks, OAuth, or MCP are enough.
