@@ -22,7 +22,7 @@ Use the Docus MCP server or local docs to read:
 
 ```txt
 ui = interface foundation
-id = Identity product / reusable brand-layer system
+id = reusable identity / brand-layer system
 brand = happydesigns-specific brand implementation
 ```
 
@@ -40,4 +40,4 @@ brand = happydesigns-specific brand implementation
 
 - Put product logic, permissions, workflows, data rules, integrations, storage, runtime behavior, or production credentials in a brand layer.
 - Scatter raw palette classes and `dark:` variants through reusable components.
-- Treat the `brand` repo name as the reusable Identity product name.
+- Treat the `brand` repo name as the reusable identity system name.
