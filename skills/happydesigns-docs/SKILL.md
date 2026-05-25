@@ -30,14 +30,15 @@ Use the Docus MCP server or local docs to read:
 7. Add a section heading before substantive lists, tables, diagrams, code blocks, or decision models.
 8. Choose a page type before choosing headings: landing, model, boundary, workflow, policy, or product role page.
 9. Use prose for intent, tables for decisions, ordered lists for sequences, and MDC components only when they improve navigation or scanning.
-10. Keep English as the canonical content language until German translation is intentionally created.
-11. Keep product-specific implementation detail in product docs, not the ecosystem operating manual.
-12. Keep customer-facing instructions for customer help docs.
-13. Prefer Docus default aside navigation for one operating manual. Use header sub-navigation only when the IA needs a real third layer or distinct personas/modes.
-14. Use Mermaid only for topology, branching, convergence, feedback loops, or ownership flows. Explain how to read each diagram in prose.
-15. Use ordered lists for simple sequences and tables for comparisons.
-16. Rely on Docus navigation and previous/next controls for sequential reading. Use inline links where the prose needs them; do not add blanket `Read next` sections.
-17. Update skills when docs paths or agent workflows change.
+10. Product role pages describe canonical ownership, domains, repositories, and packages. Do not add `planned`, `future`, `coming soon`, or `current vs planned` labels.
+11. Keep English as the canonical source language. Add German pages only as translated, reviewed documentation.
+12. Keep product-specific implementation detail in product docs, not the ecosystem operating manual.
+13. Keep customer-facing instructions for customer help docs.
+14. Prefer Docus default aside navigation for one operating manual. Use header sub-navigation only when the IA needs a real third layer or distinct personas/modes.
+15. Use Mermaid only for topology, branching, convergence, feedback loops, or ownership flows. Explain how to read each diagram in prose.
+16. Use ordered lists for simple sequences and tables for comparisons.
+17. Rely on Docus navigation and previous/next controls for sequential reading. Use inline links where the prose needs them; do not add blanket `Read next` sections.
+18. Update skills when docs paths or agent workflows change.
 
 ## Do not
 

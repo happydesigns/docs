@@ -40,7 +40,7 @@ content/
     6.ai/             # MCP, LLM, and agent workflow
 ```
 
-German is configured as a locale placeholder. Do not copy English pages into German without translation.
+English is the source language. German is an intentional locale for maintained translations, not a place to copy English pages before they are translated.
 
 Pages use Docus frontmatter for titles and descriptions. Do not repeat a page title as the first Markdown heading. Use Mermaid diagrams where a diagram explains architecture better than prose.
 
