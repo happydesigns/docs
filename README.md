@@ -32,7 +32,7 @@ The site keeps the Docus i18n structure. English is the canonical content langua
 content/
   en/
     index.md
-    1.start/          # ecosystem operating model
+    1.start/          # ecosystem overview and work placement
     2.architecture/   # product and runtime placement
     3.development/    # build, docs, and Nuxt UI policy
     4.identity/       # identity and brand-layer strategy

@@ -20,7 +20,7 @@ The central operating manual for builders and agents working across happydesigns
   trailing-icon: i-lucide-arrow-right
   variant: solid
   ---
-  Read the operating model
+  Explore the ecosystem
   :::
 
   :::u-button
@@ -48,22 +48,22 @@ Start with the question you need to answer. The docs are organized as an operati
   to: /en/start/operating-model
   ---
   #title
-  Place a change
+  Understand the ecosystem
 
   #description
-  Use the operating model to choose the product, layer, app, package, or docs site that owns the work.
+  Start with the applications, reusable foundations, and documentation model.
   :::
 
   :::u-page-feature
   ---
   icon: i-lucide-file-code-2
-  to: /en/architecture/where-code-belongs
+  to: /en/start/where-work-belongs
   ---
   #title
-  Find the owner
+  Place work
 
   #description
-  Compare concrete examples when a change could fit in several repositories or layers.
+  Decide whether work belongs in an app, foundation, product package, help docs, or ecosystem docs.
   :::
 
   :::u-page-feature
@@ -108,7 +108,7 @@ These pages are intentionally strategic. They explain what belongs where, which 
   Ecosystem
 
   #description
-  Understand the operating model, product map, and source-of-truth rules.
+  Understand applications, reusable foundations, documentation roles, and source-of-truth rules.
   :::
 
   :::u-page-feature
