@@ -57,7 +57,7 @@ Start with the question you need to answer. The docs are organized as an operati
   :::u-page-feature
   ---
   icon: i-lucide-file-code-2
-  to: /en/start/where-work-belongs
+  to: /en/start/work-placement
   ---
   #title
   Place work
