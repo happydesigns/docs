@@ -22,7 +22,8 @@ export default defineNuxtConfig({
     '/en/architecture': { redirect: '/en/architecture/layered-architecture' },
     '/en/development': { redirect: '/en/development/how-we-build' },
     '/en/identity': { redirect: '/en/identity/identity-scope' },
-    '/en/products': { redirect: '/en/products/product-map' },
+    '/en/products': { redirect: '/en/products/ui' },
+    '/en/products/product-map': { redirect: '/en/start/product-map' },
     '/en/ai': { redirect: '/en/ai/agent-workflow' },
   },
   llms: {

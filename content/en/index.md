@@ -16,7 +16,7 @@ The central operating manual for builders and agents working across happydesigns
   ---
   color: neutral
   size: xl
-  to: /en/start/operating-model
+  to: /start/operating-model
   trailing-icon: i-lucide-arrow-right
   variant: solid
   ---
@@ -27,7 +27,7 @@ The central operating manual for builders and agents working across happydesigns
   ---
   color: neutral
   size: xl
-  to: /en/architecture/layered-architecture
+  to: /architecture/layered-architecture
   variant: outline
   ---
   Architecture model
@@ -45,7 +45,7 @@ Start with the question you need to answer. The docs are organized as an operati
   :::u-page-feature
   ---
   icon: i-lucide-route
-  to: /en/start/operating-model
+  to: /start/operating-model
   ---
   #title
   Understand the ecosystem
@@ -57,7 +57,7 @@ Start with the question you need to answer. The docs are organized as an operati
   :::u-page-feature
   ---
   icon: i-lucide-file-code-2
-  to: /en/start/work-placement
+  to: /start/work-placement
   ---
   #title
   Place work
@@ -69,7 +69,7 @@ Start with the question you need to answer. The docs are organized as an operati
   :::u-page-feature
   ---
   icon: i-lucide-fingerprint
-  to: /en/identity/identity-scope
+  to: /identity/identity-scope
   ---
   #title
   Work with identity
@@ -81,7 +81,7 @@ Start with the question you need to answer. The docs are organized as an operati
   :::u-page-feature
   ---
   icon: i-lucide-file-pen-line
-  to: /en/development/docus-authoring
+  to: /development/docus-authoring
   ---
   #title
   Write stable docs
@@ -102,7 +102,7 @@ These pages are intentionally strategic. They explain what belongs where, which 
   :::u-page-feature
   ---
   icon: i-lucide-map
-  to: /en/start/operating-model
+  to: /start/operating-model
   ---
   #title
   Ecosystem
@@ -114,7 +114,7 @@ These pages are intentionally strategic. They explain what belongs where, which 
   :::u-page-feature
   ---
   icon: i-lucide-network
-  to: /en/architecture/layered-architecture
+  to: /architecture/layered-architecture
   ---
   #title
   Architecture
@@ -126,7 +126,7 @@ These pages are intentionally strategic. They explain what belongs where, which 
   :::u-page-feature
   ---
   icon: i-lucide-code-2
-  to: /en/development/how-we-build
+  to: /development/how-we-build
   ---
   #title
   Development
@@ -138,7 +138,7 @@ These pages are intentionally strategic. They explain what belongs where, which 
   :::u-page-feature
   ---
   icon: i-lucide-fingerprint
-  to: /en/identity/identity-scope
+  to: /identity/identity-scope
   ---
   #title
   Identity
@@ -150,7 +150,7 @@ These pages are intentionally strategic. They explain what belongs where, which 
   :::u-page-feature
   ---
   icon: i-lucide-box
-  to: /en/products/product-map
+  to: /start/product-map
   ---
   #title
   Products
@@ -162,7 +162,7 @@ These pages are intentionally strategic. They explain what belongs where, which 
   :::u-page-feature
   ---
   icon: i-lucide-bot
-  to: /en/ai/agent-workflow
+  to: /ai/agent-workflow
   ---
   #title
   Agents
